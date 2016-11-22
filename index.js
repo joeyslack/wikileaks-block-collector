@@ -6,7 +6,7 @@ var path = require('path');
 
 // Variables
 var startingBlock = 434300; // 2016-10-15 23:23:24
-var endingBlock = 436000; // 2016-10-26 14:42:48
+var endingBlock = 440000; // 2016-11-22 01:25:04
 var currentBlock = 0;
 var initialLength = endingBlock - startingBlock;
 
