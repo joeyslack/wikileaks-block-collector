@@ -1,5 +1,5 @@
 # Wikileaks Block Collector
-This is an attempt to collect raw block data in a single repository to make it easier to sort through for information related to Assange's rumoured disappearance. Git's excellent version control can help us crowdsource this tedious task with minimal effort.
+An organized attempt to collect raw block data in a single repository to make it easier to sort through for information related to Assange's rumoured disappearance! Git's excellent version control can help us crowdsource this tedious task with minimal effort.
 
 ## If you’re comfortable using Github and NodeJS:
 1. Clone this repository.
